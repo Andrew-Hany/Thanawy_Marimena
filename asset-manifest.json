@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Thanawy_Marimena/static/css/main.c59cfe11.chunk.css",
+    "main.js": "/Thanawy_Marimena/static/js/main.e49bd9e3.chunk.js",
+    "main.js.map": "/Thanawy_Marimena/static/js/main.e49bd9e3.chunk.js.map",
+    "runtime-main.js": "/Thanawy_Marimena/static/js/runtime-main.5a88b260.js",
+    "runtime-main.js.map": "/Thanawy_Marimena/static/js/runtime-main.5a88b260.js.map",
+    "static/js/2.77b69150.chunk.js": "/Thanawy_Marimena/static/js/2.77b69150.chunk.js",
+    "static/js/2.77b69150.chunk.js.map": "/Thanawy_Marimena/static/js/2.77b69150.chunk.js.map",
+    "index.html": "/Thanawy_Marimena/index.html",
+    "precache-manifest.513abacc32b12b8e4594c48a717f15cd.js": "/Thanawy_Marimena/precache-manifest.513abacc32b12b8e4594c48a717f15cd.js",
+    "service-worker.js": "/Thanawy_Marimena/service-worker.js",
+    "static/css/main.c59cfe11.chunk.css.map": "/Thanawy_Marimena/static/css/main.c59cfe11.chunk.css.map",
+    "static/js/2.77b69150.chunk.js.LICENSE.txt": "/Thanawy_Marimena/static/js/2.77b69150.chunk.js.LICENSE.txt",
+    "static/media/logo.jpeg": "/Thanawy_Marimena/static/media/logo.639bea94.jpeg",
+    "static/media/App.css": "/Thanawy_Marimena/static/media/marmina.a17523f5.jpg",
+    "static/media/video.mp4": "/Thanawy_Marimena/static/media/video.bc313e2a.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a88b260.js",
+    "static/js/2.77b69150.chunk.js",
+    "static/css/main.c59cfe11.chunk.css",
+    "static/js/main.e49bd9e3.chunk.js"
+  ]
+}
