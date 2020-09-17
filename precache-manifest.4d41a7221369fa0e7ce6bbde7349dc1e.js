@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "34d312fb7a2a6c1e71b6b11db923098b",
+    "revision": "b6fad9b507fee4349628aaf780ab8ff5",
     "url": "/Thanawy_Marimena/index.html"
   },
   {
-    "revision": "9fe5441a6d2220d36694",
-    "url": "/Thanawy_Marimena/static/css/main.4d816735.chunk.css"
+    "revision": "ef93ae6d3ce6744d0736",
+    "url": "/Thanawy_Marimena/static/css/main.c5bdaacf.chunk.css"
   },
   {
     "revision": "a7fe49a02eb021f6f2bc",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Thanawy_Marimena/static/js/2.77b69150.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9fe5441a6d2220d36694",
+    "revision": "ef93ae6d3ce6744d0736",
     "url": "/Thanawy_Marimena/static/js/main.72b27e09.chunk.js"
   },
   {
