@@ -220,6 +220,9 @@ padding:5px;
        top: 20px;
        margin:4px;
        background-color: wheat;
+       padding:2px
+       /* width:5px;
+       text-align: center; */
     }
     .sectiontext{
       position: relative;
