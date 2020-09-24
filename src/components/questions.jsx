@@ -23,9 +23,12 @@ export default class questions extends Component {
                 }
                 <div className="row">
                     <div className="col-9" />
-                    <button className="bg-success rounded col-2  p-2" onClick={() => this.props.handlesubmitform(this.props.quiz)}>submit</button>
+                    {!this.props.done ?
+                        < button className="bg-success rounded col-2  p-2" onClick={() => this.props.handlesubmitform(this.props.quiz)}>submit</button> :
+                        <button className="bg-success rounded col-2  p-2" onClick={() => this.props.toggleonHome()}>return to home </button>
+                    }
                 </div>
-            </div>
+            </div >
         )
     }
 

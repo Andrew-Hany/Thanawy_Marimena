@@ -4,7 +4,7 @@ import Vid from './video.mp4'
 class video extends Component {
     state = {
         play: true,
-        muted: false,
+        muted: true,
 
     }
     playPause = () => {
@@ -25,7 +25,7 @@ class video extends Component {
         return (
             <div >
 
-                <video id="video1" src={Vid} autoPlay={false} loop={true} className="video" muted={this.state.muted}></video>
+                <video id="video1" src={Vid} autoPlay={this.state.play} loop={true} className="video" muted={this.state.muted}></video>
                 <div className="border-top  position"></div>
                 {/* play/pause */}
                 {this.state.play && <i className="fa fa-pause stopplay" role="button" onClick={this.playPause} ></i>

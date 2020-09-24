@@ -7,9 +7,10 @@ import Section from './components/section';
 import Footer from './components/footer';
 import Comp from './components/competitions';
 import From from './components/questions';
+import As7a7 from './components/2s7a7';
 import './App.css';
 import './circle.css';
-import Im from './'
+
 
 
 
@@ -32,14 +33,68 @@ class App extends Component {
         arrow: 0,
         id: 1, name: 'Bible', subsection:
           [
-            { name: '1', id: 1, compid: 1, read: false, competitionname: "maration part 2" },
-            { name: ' 2', id: 2, compid: 2, read: false, competitionname: "maration part 2" },
-            { name: ' 3', id: 3, compid: 1, read: false, competitionname: "maration part 1" },
-            { name: ' 4', id: 4, compid: 2, read: false, competitionname: "maration part 1" },
-            { name: ' 5', id: 5, compid: 3, read: false, competitionname: "maration part 1" },
-            { name: ' 6', id: 6, compid: 4, read: false, competitionname: "maration part 1" },
-            { name: ' 7', id: 7, compid: 3, read: false, competitionname: "maration part 2" },
-            { name: ' 8', id: 8, compid: 4, read: false, competitionname: "maration part 2" },
+            {
+              name: "إنجيل متى ,الأصحاح الأول", id: 1, compid: 1, read: false, content: "1 .كتاب ميلاد يسوع المسيح ابن داود ابن إبراهيم \
+              2 إبراهيم ولد إسحاق. وإسحاق ولد يعقوب. ويعقوب ولد يهوذا وإخوته  \
+              ويهوذا ولد فارص وزارح من ثامار. وفارص ولد حصرون. وحصرون ولد أرام  \
+وأرام ولد عميناداب . وعميناداب ولد نحشون. ونحشون ولد سلمون \
+وسلمون ولد بوعز من راحاب. وبوعز ولد عوبيد من راعوث. وعوبيد ولد يسى \
+ويسى ولد داود الملك . وداود الملك ولد سليمان من التي لأوريا  \
+وسليمان ولد رحبعام . ورحبعام ولد أبيا. وأبيا ولد آسا \
+\
+ وآسا ولد يهوشافاط. ويهوشافاط ولد يورام. ويورام ولد عزيا \
+\
+ وعزيا ولد يوثام. ويوثام ولد أحاز. وأحاز ولد حزقيا \
+\
+1 وحزقيا ولد منسى. ومنسى ولد آمون. وآمون ولد يوشيا \
+\
+ ويوشيا ولد يكنيا وإخوته عند سبي بابل \
+\
+ وبعد سبي بابل يكنيا ولد شألتئيل. وشألتئيل ولد زربابل \
+\
+ وزربابل ولد أبيهود . وأبيهود ولد ألياقيم. وألياقيم ولد عازور \
+\
+ وعازور ولد صادوق. وصادوق ولد أخيم. وأخيم ولد أليود \
+\
+ وأليود ولد أليعازر . وأليعازر ولد متان. ومتان ولد يعقوب \
+\
+ ويعقوب ولد يوسف رجل مريم التي ولد منها يسوع الذي يدعى المسيح \
+ فجميع الأجيال من إبراهيم إلى داود أربعة عشر جيلا، ومن داود إلى سبي بابل أربعة عشر جيلا، ومن سبي بابل إلى المسيح أربعة عشر جيلا\
+\
+ أما ولادة يسوع المسيح فكانت هكذا: لما كانت مريم أمه مخطوبة ليوسف، قبل أن يجتمعا، وجدت حبلى من الروح القدس\
+\
+ فيوسف رجلها إذ كان بارا، ولم يشأ أن يشهرها، أراد تخليتها سرا\
+\
+ ولكن فيما هو متفكر في هذه الأمور، إذا ملاك الرب قد ظهر له في حلم قائلا: يا يوسف ابن داود، لا تخف أن تأخذ مريم امرأتك. لأن الذي حبل به فيها هو من الروح القدس\
+\
+ فستلد ابنا وتدعو اسمه يسوع. لأنه يخلص شعبه من خطاياهم\
+\
+ وهذا كله كان لكي يتم ما قيل من الرب بالنبي القائل\
+\
+ هوذا العذراء تحبل وتلد ابنا، ويدعون اسمه عمانوئيل الذي تفسيره: الله معنا\
+\
+ فلما استيقظ يوسف من النوم فعل كما أمره ملاك الرب، وأخذ امرأته\
+\
+ ولم يعرفها حتى ولدت ابنها البكر. ودعا اسمه يسوع\
+              ", competitionname: "maration part 2"
+            },
+            {
+              name: "إنجيل متى ,الأصحاح الثاتي", id: 2, compid: 2, read: false, content: "1 ولما ولد يسوع في بيت لحم اليهودية في ايام هيرودس الملك اذا مجوس من المشرق قد جاءوا الى اورشليم 2 قائلين: «اين هو المولود ملك اليهود؟ فاننا راينا نجمه في المشرق واتينا لنسجد له». 3 فلما سمع هيرودس الملك اضطرب وجميع اورشليم معه. 4 فجمع كل رؤساء الكهنة وكتبة الشعب وسالهم: «اين يولد المسيح؟» 5 فقالوا له: «في بيت لحم اليهودية لانه هكذا مكتوب بالنبي: 6 وانت يا بيت لحم ارض يهوذا لست الصغرى بين رؤساء يهوذا لان منك يخرج مدبر يرعى شعبي اسرائيل». \
+\
+            7 حينئذ دعا هيرودس المجوس سرا وتحقق منهم زمان النجم الذي ظهر. 8 ثم ارسلهم الى بيت لحم وقال: «اذهبوا وافحصوا بالتدقيق عن الصبي ومتى وجدتموه فاخبروني لكي اتي انا ايضا واسجد له». 9 فلما سمعوا من الملك ذهبوا. واذا النجم الذي راوه في المشرق يتقدمهم حتى جاء ووقف فوق حيث كان الصبي. 10 فلما راوا النجم فرحوا فرحا عظيما جدا 11 واتوا الى البيت وراوا الصبي مع مريم امه فخروا وسجدوا له ثم فتحوا كنوزهم وقدموا له هدايا: ذهبا ولبانا ومرا. 12 ثم اذ اوحي اليهم في حلم ان لا يرجعوا الى هيرودس انصرفوا في طريق اخرى الى كورتهم.\
+            \
+            13 وبعدما انصرفوا اذا ملاك الرب قد ظهر ليوسف في حلم قائلا: «قم وخذ الصبي وامه واهرب الى مصر وكن هناك حتى اقول لك. لان هيرودس مزمع ان يطلب الصبي ليهلكه». 14 فقام واخذ الصبي وامه ليلا وانصرف الى مصر 15 وكان هناك الى وفاة هيرودس لكي يتم ما قيل من الرب بالنبي: «من مصر دعوت ابني».\
+            \
+            16 حينئذ لما راى هيرودس ان المجوس سخروا به غضب جدا فارسل وقتل جميع الصبيان الذين في بيت لحم وفي كل تخومها من ابن سنتين فما دون بحسب الزمان الذي تحققه من المجوس. 17 حينئذ تم ما قيل بارميا النبي: 18 «صوت سمع في الرامة نوح وبكاء وعويل كثير. راحيل تبكي على اولادها ولا تريد ان تتعزى لانهم ليسوا بموجودين».\
+            \
+            19 فلما مات هيرودس اذا ملاك الرب قد ظهر في حلم ليوسف في مصر 20 قائلا: «قم وخذ الصبي وامه واذهب الى ارض اسرائيل لانه قد مات الذين كانوا يطلبون نفس الصبي». 21 فقام واخذ الصبي وامه وجاء الى ارض اسرائيل. 22 ولكن لما سمع ان ارخيلاوس يملك على اليهودية عوضا عن هيرودس ابيه خاف ان يذهب الى هناك. واذ اوحي اليه في حلم انصرف الى نواحي الجليل. 23 واتى وسكن في مدينة يقال لها ناصرة لكي يتم ما قيل بالانبياء: «انه سيدعى ناصريا».", competitionname: "maration part 2"
+            },
+            // { name: ' 3', id: 3, compid: 1, read: false, competitionname: "maration part 1" },
+            // { name: ' 4', id: 4, compid: 2, read: false, competitionname: "maration part 1" },
+            // { name: ' 5', id: 5, compid: 3, read: false, competitionname: "maration part 1" },
+            // { name: ' 6', id: 6, compid: 4, read: false, competitionname: "maration part 1" },
+            // { name: ' 7', id: 7, compid: 3, read: false, competitionname: "maration part 2" },
+            // { name: ' 8', id: 8, compid: 4, read: false, competitionname: "maration part 2" },
 
           ]
       },
@@ -131,7 +186,8 @@ class App extends Component {
     // competitions
     oncompetitions: false,
     onquiz: false, quizName: "",
-    onhome: true,
+    onhome: true, as7a7Name: "",
+    on2s7a7: false,
     competitions: [
       { id: 1, name: "maration part 1", open: false },
       { id: 2, name: "maration part 2", open: false },
@@ -141,6 +197,16 @@ class App extends Component {
 
 
   };
+  toggleOn2s7a7 = (name) => {
+    this.setState({
+      oncompetitions: false,
+      onquiz: false,
+      onhome: false,
+      on2s7a7: true,
+      as7a7Name: name,
+    });
+
+  }
   handlesubmitform = (quiz) => {
     const sections = [...this.state.section]
     const index = 1;
@@ -233,8 +299,10 @@ class App extends Component {
       oncompetitions: false,
       onquiz: true,
       onhome: false,
+      on2s7a7: false,
       quizName: name,
     });
+
   }
   toggleonCompSections = (compet) => {
     const competi = [...this.state.competitions]
@@ -255,6 +323,7 @@ class App extends Component {
       oncompetitions: false,
       onhome: true,
       onquiz: false,
+      on2s7a7: false,
     });
   }
   responseFacebook = response => {
@@ -274,15 +343,15 @@ class App extends Component {
 
 
 
-  handleread = (sectio, sub) => {
+  handleread = (sub) => {
     let value = this.state.circle.value;
     const sections = [...this.state.section]
-    const index = sections.indexOf(sectio);
-    let section = { ...sections[index] }
+    // const index = sections.indexOf(sectio);
+    let section = { ...sections[0] }
     let subsection = [...section.subsection]
     const index1 = subsection.indexOf(sub);
 
-    console.log(sub)
+    console.log(sub);
 
     // Subsections[index1] = { ...sub }
 
@@ -383,12 +452,13 @@ class App extends Component {
                   sectio={section}
                   subsection={section.subsection}
                   name={section.name}
-                  handleread={this.handleread}
+
                   arrow={section.arrow}
                   handleArrowleft={this.handleArrowleft}
                   handleArrowRight={this.handleArrowRight}
                   // competitionName={null}
                   toggleonQuiz={this.toggleonQuiz}
+                  toggleOn2s7a7={this.toggleOn2s7a7}
 
                 />
               )
@@ -449,10 +519,38 @@ class App extends Component {
                 handlechoose={this.handlechoose}
                 handleText={this.handleText}
                 done={quiz.done}
+                toggleonHome={this.toggleonHome}
 
               />)}
             {/* <Footer /> */}
           </div>}
+        {this.state.on2s7a7 &&
+          < div>
+            <Nav
+              auth={this.state.auth}
+              picture={this.state.picture}
+              name={this.state.name}
+              picture={this.state.picture}
+              mails={this.state.mails}
+              toggleonComp={this.toggleonComp}
+              toggleonHome={this.toggleonHome}
+            />
+            {this.state.section[0].subsection.filter(as7a7 => as7a7.name === this.state.as7a7Name).
+              map(filteredas7a7 =>
+                <As7a7
+                  as7a7={filteredas7a7}
+                  as7a7name={filteredas7a7.name}
+                  handleread={this.handleread}
+                  read={filteredas7a7.read}
+                  content={filteredas7a7.content}
+                  toggleonHome={this.toggleonHome}
+                />)
+
+
+            }
+
+          </div>}
+
         {
           !this.state.auth &&
           <Login

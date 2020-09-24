@@ -22,6 +22,7 @@ class section extends Component {
                                         handleread={this.props.handleread}
                                         sectionName={this.props.name}
                                         toggleonQuiz={this.props.toggleonQuiz}
+                                        toggleOn2s7a7={this.props.toggleOn2s7a7}
                                     />
                                 )
                         }
