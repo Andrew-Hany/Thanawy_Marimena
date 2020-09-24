@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Thanawy_Marimena/precache-manifest.0d3f157d61d4ef2a90e44a26678746f6.js"
+  "/Thanawy_Marimena/precache-manifest.f66f08b83997501b5e94f9ed36e053c3.js"
 );
 
 self.addEventListener('message', (event) => {

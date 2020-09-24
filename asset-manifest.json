@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Thanawy_Marimena/static/css/main.e46cdfe8.chunk.css",
-    "main.js": "/Thanawy_Marimena/static/js/main.72b27e09.chunk.js",
-    "main.js.map": "/Thanawy_Marimena/static/js/main.72b27e09.chunk.js.map",
+    "main.css": "/Thanawy_Marimena/static/css/main.3b3817ab.chunk.css",
+    "main.js": "/Thanawy_Marimena/static/js/main.8a86ffdc.chunk.js",
+    "main.js.map": "/Thanawy_Marimena/static/js/main.8a86ffdc.chunk.js.map",
     "runtime-main.js": "/Thanawy_Marimena/static/js/runtime-main.5a88b260.js",
     "runtime-main.js.map": "/Thanawy_Marimena/static/js/runtime-main.5a88b260.js.map",
     "static/js/2.77b69150.chunk.js": "/Thanawy_Marimena/static/js/2.77b69150.chunk.js",
     "static/js/2.77b69150.chunk.js.map": "/Thanawy_Marimena/static/js/2.77b69150.chunk.js.map",
     "index.html": "/Thanawy_Marimena/index.html",
-    "precache-manifest.0d3f157d61d4ef2a90e44a26678746f6.js": "/Thanawy_Marimena/precache-manifest.0d3f157d61d4ef2a90e44a26678746f6.js",
+    "precache-manifest.f66f08b83997501b5e94f9ed36e053c3.js": "/Thanawy_Marimena/precache-manifest.f66f08b83997501b5e94f9ed36e053c3.js",
     "service-worker.js": "/Thanawy_Marimena/service-worker.js",
-    "static/css/main.e46cdfe8.chunk.css.map": "/Thanawy_Marimena/static/css/main.e46cdfe8.chunk.css.map",
+    "static/css/main.3b3817ab.chunk.css.map": "/Thanawy_Marimena/static/css/main.3b3817ab.chunk.css.map",
     "static/js/2.77b69150.chunk.js.LICENSE.txt": "/Thanawy_Marimena/static/js/2.77b69150.chunk.js.LICENSE.txt",
     "static/media/logo.jpeg": "/Thanawy_Marimena/static/media/logo.639bea94.jpeg",
     "static/media/App.css": "/Thanawy_Marimena/static/media/marmina.a17523f5.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.5a88b260.js",
     "static/js/2.77b69150.chunk.js",
-    "static/css/main.e46cdfe8.chunk.css",
-    "static/js/main.72b27e09.chunk.js"
+    "static/css/main.3b3817ab.chunk.css",
+    "static/js/main.8a86ffdc.chunk.js"
   ]
 }
