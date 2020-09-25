@@ -1,0 +1,36 @@
+.as7a7{
+    text-align:center;
+    margin-left:400px;
+     margin-right: 400px;
+}
+.header{
+    text-align: center;
+    margin: 50px;
+}
+.as7a7Content{
+    text-align: right;
+     padding: 40px;
+}
+.comment{
+    width:200px;
+    height:20px;
+    overflow: hidden;
+    text-decoration: none;
+    font-size: 10px;
+    color:black;
+    position: fixed;
+    bottom:0px;
+    right:0px;
+    margin-right:70px;    
+    margin-bottom:10px;
+}
+.comment:hover{
+    text-decoration: none;
+}
+@media (max-width:600px) {
+    .as7a7{
+        margin-left:10px;
+         margin-right: 10px;
+    }
+  
+}

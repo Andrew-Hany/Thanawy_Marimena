@@ -18,7 +18,7 @@ import './circle.css';
 class App extends Component {
   state = {
     //face 
-    auth: false,
+    auth: true,
     name: '',
     picture: '',
     mails: '',
