@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Thanawy_Marimena/static/css/main.a6c492ff.chunk.css",
-    "main.js": "/Thanawy_Marimena/static/js/main.333260d6.chunk.js",
-    "main.js.map": "/Thanawy_Marimena/static/js/main.333260d6.chunk.js.map",
+    "main.js": "/Thanawy_Marimena/static/js/main.52e3fa17.chunk.js",
+    "main.js.map": "/Thanawy_Marimena/static/js/main.52e3fa17.chunk.js.map",
     "runtime-main.js": "/Thanawy_Marimena/static/js/runtime-main.5a88b260.js",
     "runtime-main.js.map": "/Thanawy_Marimena/static/js/runtime-main.5a88b260.js.map",
     "static/js/2.07d4d567.chunk.js": "/Thanawy_Marimena/static/js/2.07d4d567.chunk.js",
     "static/js/2.07d4d567.chunk.js.map": "/Thanawy_Marimena/static/js/2.07d4d567.chunk.js.map",
     "index.html": "/Thanawy_Marimena/index.html",
-    "precache-manifest.1f5029171c900f1d378dcd0c43b70a4f.js": "/Thanawy_Marimena/precache-manifest.1f5029171c900f1d378dcd0c43b70a4f.js",
+    "precache-manifest.bccb892be0312305911d793366832441.js": "/Thanawy_Marimena/precache-manifest.bccb892be0312305911d793366832441.js",
     "service-worker.js": "/Thanawy_Marimena/service-worker.js",
     "static/css/main.a6c492ff.chunk.css.map": "/Thanawy_Marimena/static/css/main.a6c492ff.chunk.css.map",
     "static/js/2.07d4d567.chunk.js.LICENSE.txt": "/Thanawy_Marimena/static/js/2.07d4d567.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.5a88b260.js",
     "static/js/2.07d4d567.chunk.js",
     "static/css/main.a6c492ff.chunk.css",
-    "static/js/main.333260d6.chunk.js"
+    "static/js/main.52e3fa17.chunk.js"
   ]
 }
